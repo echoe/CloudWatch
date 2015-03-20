@@ -1,0 +1,58 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "sfelshman@gmail.com",
+    "longName": "CloudWatch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/CHERL___.TTF",
+                "name": "CHERL_44",
+                "trackingAdjust": 2,
+                "type": "font"
+            },
+            {
+                "file": "fonts/CHERL___.TTF",
+                "name": "CHERL_26",
+                "trackingAdjust": 2,
+                "type": "font"
+            },
+            {
+                "file": "fonts/Quirlycues.ttf",
+                "name": "QUIRLY_16",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Quirlycues.ttf",
+                "name": "QUIRLY_20",
+                "type": "font"
+            },
+            {
+                "file": "images/cloudface.png",
+                "name": "CLOUDFACE",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Love Letters.ttf",
+                "name": "LOVELETTERS_12",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Love Letters.ttf",
+                "name": "LOVELETTERS_16",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "CloudWatch",
+    "uuid": "698faed8-fa18-46c0-8e20-849d668a3097",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
